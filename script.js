@@ -54,7 +54,7 @@ mostraPergunta();
         ]
     },
     {
-        enunciado: "Quais ão os crimes mai ocorrentes na sua cidade?",
+        enunciado: "Quais ão os crimes mais ocorrentes na sua cidade?",
         alternativas: [
             "Tráfico de drogas",
             "Roubo"
@@ -100,7 +100,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Quais ão os crimes mai ocorrentes na sua cidade?",
+        enunciado: "Quais são os crimes mai ocorrentes na sua cidade?",
         alternativas: [
             "Tráfico de drogas",
             "Roubo"
